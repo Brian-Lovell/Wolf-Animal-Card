@@ -8,7 +8,7 @@ Nice work creating this project and taking it to fruition. I did not know so man
 
 All the best for your future projects
 
-# Design
+## Design
 **Page resembles card from design prototype.**
 
 - The text is italicized for the animal’s interesting fact.
@@ -30,7 +30,7 @@ The image’s alt is relevant to the animal used.
 
 *You have carefully made changes to the design to suit your choices. Great job*
 
-# Code Quality
+## Code Quality
 The HTML includes classes that are used for styling.
 
 Classes are given meaningful names.
